@@ -1,0 +1,95 @@
+body {
+  background-color: #FEFAE0;
+  opacity: 0.8;
+  background-image: radial-gradient(#A6B37D 1.5px, transparent 1.5px), radial-gradient(#A6B37D 1.5px, #FEFAE0 1.5px);
+  background-size: 60px 60px;
+  background-position: 0 0, 30px 30px;
+}
+
+.secret {
+  font-family: "Emilys Candy", cursive;
+  font-size: 4rem;
+  padding-top: 2%;
+}
+
+h1 {
+  color: #5c330a;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+
+i {
+  color: #94602b;
+}
+
+.p-home {
+  color: #2e1d0c;
+  font-size: 1.5rem;
+  font-weight: 350;
+}
+
+.jumbotron {
+  background-color: #FEFAE0;
+  opacity: 0.8;
+  background-image: radial-gradient(#A6B37D 1.5px, transparent 1.5px), radial-gradient(#A6B37D 1.5px, #FEFAE0 1.5px);
+  background-size: 60px 60px;
+  background-position: 0 0, 30px 30px;
+}
+
+.home {
+  background-color: #fff;
+  padding: 5%;
+  margin: 0 auto;
+  border-radius: 5%;
+  display: block;
+  max-width: 600px;
+  max-height: 500px;
+  border: 1px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.centered {
+  padding-top: 200px;
+  text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 30px;
+  color: #fff;
+  background-color: #416c4b;
+  padding: 5px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 350;
+  margin-top: 4%;
+  border-radius: 5px;
+}
+
+.app-dark {
+  background-color: #94602b;
+  border-color: #94602b;
+}
+
+.app-dark:hover {
+  background-color: #834e19;
+  border-color: #834e19
+}
+
+.app-light {
+  color: #94602b;
+  border: 1px solid #f2d2b3;
+  margin-right: 10px
+}
+
+.app-light:hover {
+  color: #834e19;
+  text-decoration: none;
+  border: 1px solid #a7917b;
+}
+
+.form-control {
+  height: 40px;
+  font-size: 20px;
+  margin: 25px auto;
+  border-radius: 5px;
+}
